@@ -1,4 +1,3 @@
-sql
 -- Buat database
 CREATE DATABASE IF NOT EXISTS crud_portfolio CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE crud_portfolio;
